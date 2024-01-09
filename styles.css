@@ -89,6 +89,75 @@ font-size: 20px;
 font-weight: 700;
 }
 
+                                  /* section 3 */
+.event-schedule{ 
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    height: 200px;
+    margin: 100px 290px;
+     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+.event-timing{
+    color: #F00;
+}
+.join-button{
+    border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+}
+                                  /* section 4 */
+.coming-soon{
+    display: flex;justify-content: center;
+    gap:70px ;
+    margin: 300px 350px 50px 350px;
+}
+.coming-soon-offer{
+    margin-top: 120px;
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 2px;
+}
+.coming-soon-head{
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+margin-top: 0px;
+margin-bottom:5px;
+}
+.coming-soon-des{
+    color: rgba(7, 2, 17, 0.60);  
+     font-family: Inter;
+   font-weight: 400;
+    line-height: 32px;
+    width: 393px; 
+}
+.coming-soon-img{
+    border-radius: 463px;
+    border: 15px solid #F00;
+     width: 463px;
+    height: 463px;
+}
+.coming-soon-date{
+    margin-top: 130px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.coming-soon-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    ont-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 276px; 
+}
+
 .footer-part{
     background: #070211;
     height: 700px;
